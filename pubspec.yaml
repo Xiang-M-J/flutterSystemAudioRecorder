@@ -1,7 +1,7 @@
 name: system_audio_recorder
 description: "A new Flutter plugin project."
 version: 0.0.1
-repository:
+repository: https://github.com/Xiang-M-J/flutterSystemAudioRecorder
 homepage:
 
 environment:
