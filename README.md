@@ -4,8 +4,6 @@ A Simple flutter plugin used to record audio played by the Android system
 
 
 
-
-
 ## Functions
 
 ### requestRecord
@@ -124,4 +122,12 @@ if (_audioSubscription != null) {   // if record to stream, cancel subscription 
     _audioSubscription = null;
 }
 ```
+
+
+
+## References
+
+[flutter_screen_recording](https://pub.dev/packages/flutter_screen_recording)
+
+[SystemAudioCaptureAndroid](https://github.com/HarshSinghRajawat/SystemAudioCaptureAndroid)
 
