@@ -1,5 +1,5 @@
 name: system_audio_recorder
-description: "A new Flutter plugin project."
+description: "A Simple plugin to record audio played by Android System"
 version: 0.0.1
 repository: https://github.com/Xiang-M-J/flutterSystemAudioRecorder
 homepage:
